@@ -23,7 +23,7 @@ https://github.com/user-attachments/assets/92e1dffd-92af-4d63-b682-c4a1810586a9
 
 <br>
 
-[Meet Ashwanth]<a href="https://github.com/PurpleAILAB/Decepticon/blob/main/LICENSE">
+[CLI Demo](.github/cli.gif)
 
 </div>
 
