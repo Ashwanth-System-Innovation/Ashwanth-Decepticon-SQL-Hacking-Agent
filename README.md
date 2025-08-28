@@ -1,5 +1,4 @@
-[![English](https://img.shields.io/badge/Language-English-blue?style=for-the-badge)](README.md)
-[![한국어](https://img.shields.io/badge/Language-한국어-red?style=for-the-badge)](./docs/README_KO.md)
+
 
 
 <div align="center">
