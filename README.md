@@ -23,7 +23,7 @@ https://github.com/user-attachments/assets/92e1dffd-92af-4d63-b682-c4a1810586a9
 
 <br>
 
-[CLI Demo](https://sites.google.com/view/ashwanthtechsolution?pli=1)
+[Meet Ashwanth](https://sites.google.com/view/ashwanthtechsolution?pli=1)
 
 
 </div>
