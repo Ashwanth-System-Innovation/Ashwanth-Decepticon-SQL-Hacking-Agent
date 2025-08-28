@@ -6,38 +6,15 @@
   <img src="assets/logo_banner.png" alt="Decepticon Logo">
 </div>
 
-<h1 align="center"> Decepticon - Vibe Hacking Agent</h1>
+<h1 align="center"> Ashwanth Decepticon - SQL Hacking Agent</h1>
 
-<div align="center">
+
 
 
 <!-- GitHub License -->
 <a href="https://github.com/PurpleAILAB/Decepticon/blob/main/LICENSE">
   <img src="https://img.shields.io/github/license/PurpleAILAB/Decepticon?style=for-the-badge&color=blue" alt="License: Apache 2.0">
 </a>
-
-<!-- GitHub Stars -->
-<a href="https://github.com/PurpleAILAB/Decepticon/stargazers">
-  <img src="https://img.shields.io/github/stars/PurpleAILAB/Decepticon?style=for-the-badge&color=yellow" alt="Stargazers">
-</a>
-
-<!-- GitHub Contributors -->
-<a href="https://github.com/PurpleAILAB/Decepticon/graphs/contributors">
-  <img src="https://img.shields.io/github/contributors/PurpleAILAB/Decepticon?style=for-the-badge&color=orange" alt="Contributors">
-</a>
-
-<br/>
-
-<!-- Discord -->
-<a href="https://discord.gg/TZUYsZgrRG">
-  <img src="https://img.shields.io/badge/Discord-Join%20Us-7289DA?logo=discord&logoColor=white&style=for-the-badge" alt="Join us on Discord">
-</a>
-
-<!-- Website -->
-<a href="https://purplelab.framer.ai">
-  <img src="https://img.shields.io/badge/Visit%20Website-brightgreen?logo=vercel&logoColor=white&style=for-the-badge" alt="Visit Website">
-</a>
-</div>
 
 <div align="center">
 <!-- Logo Image -->
@@ -53,48 +30,16 @@ https://github.com/user-attachments/assets/92e1dffd-92af-4d63-b682-c4a1810586a9
 
 ---
 
-<details>
-<summary><strong>📚 Table of Contents</strong></summary>
-
-- [💡 Community Contribution ](#-community-contribution)
-- [💡 What is Vibe Hacking ?](#-what-is-vibe-hacking-)
-- [💡 Why Decepticon?](#-why-decepticon)
-- [Quick Start](#-quick-start)
-- [Key features](#key-features)
-  - [Agents](#-agents)
-    - [🔴 Red Team Agents](#-red-team-agents)
-    - [🔵 Utility Agents](#-utility-agents)
-  - [Multi-Agent-System Architecture](#multi-agent-system-architecture)
-  - [Replay](#replay)
-- [Installation](#-installation)
-- [Advanced AI Models](#-advanced-ai-models)
-  - [☁️ Cloud Models](#️-cloud-models)
-  - [🏠 Local Models (Ollama)](#-local-models-ollama)
-- [MCP Support](#-mcp-support)
-  - [Supported MCP Transports](#-supported-mcp-transports)
-  - [`mcp_config.json` Structure](#-mcp_configjson-structure)
-  - [Example](#-example)
-- [⚠️ Experimental Technology Disclaimer](#️-experimental-technology-disclaimer)
-- [🤝 Contributing](#-contribution)
-  - [What You Can Contribute](#-what-you-can-contribute)
-    - [Migrate Security Tools to MCP Format](#-migrate-security-tools-to-mcp-format)
-    - [Develop ReAct-style Red Team Agents](#-develop-react-style-red-team-agents)
-    - [Architect Multi-Agent Flows](#-architect-multi-agent-flows)
-  - [How to Contribute](#-how-to-contribute)
-- [Join the Community](#-join-the-community)
-- [📝 License](#-license)
-
-</details>
 
 ---
 
 > ## ⚠️ Disclaimer
-> Do not attempt to use this project on any system or network without explicit authorization.
-> You are solely responsible for your actions.
+> Do not use this project without authorization from Ashwanth System And Innovation.
+> You are solely responsible for your actions under Ashwanth System And Innovation.
 
 > ## 💡 **Community Contribution**
 > If you have interesting penetration testing scenarios, export your **logs** and share them with the community through PR! 
-> Your experiences will greatly help other users in their learning journey.
+> Your experiences will greatly help other users in their learning journey with Ashwanth System And Innovation.
 > Please refer to the Replay section for more details.
 
 <div align="center">
@@ -105,13 +50,13 @@ https://github.com/user-attachments/assets/92e1dffd-92af-4d63-b682-c4a1810586a9
 
 ## 💡 What is **Vibe Hacking** ?
 
-**Vibe Hacking** is a new paradigm in Offensive Security defined by PurpleAILAB.  
+**Ashwanth Decepticon - SQL Hacking Agent** is a new paradigm in Offensive Security defined by PurpleAILAB.  
 
 Unlike traditional red teaming methods that rely on manual execution, **AI agents autonomously perform red teaming tasks** in Vibe Hacking.
 
 > ### *The Best Defense is a Good Offense.*
 
-## 💡 Why **Decepticon**?
+## 💡 Why **Ashwanth Decepticon - SQL Hacking Agent**?
 
 As agents become more sophisticated, attackers evolve accordingly.  
 From AI-driven phishing to self-learning malware, offensive techniques are becoming increasingly automated and intelligent.
@@ -340,21 +285,21 @@ Tools are grouped by **agent names**, and each agent can have multiple MCP serve
 
 ## ⚠️ Experimental Technology Disclaimer
 
-**Decepticon** is an experimental project currently under active development. It is not yet stable and may contain bugs, incomplete features, or undergo breaking changes.
+**Ashwanth Decepticon - SQL Hacking Agent** is an experimental project currently under active development. It is not yet stable and may contain bugs, incomplete features, or undergo breaking changes.
 
-We're building this project openly with the community and warmly welcome:
+I building this project openly with the community and warmly welcome:
 
 - Bug reports  
 - Feature requests  
 - Pull requests  
 - Good vibes  
 
-Help us make Decepticon better by filing issues or submitting PRs (see the section below for how to contribute)!
+Help me make Ashwanth Decepticon - SQL Hacking Agent better by filing issues or submitting PRs (see the section below for how to contribute)!
 
 
 ## 🤝 Contribution
 
-We welcome contributions from the community to make this project better, more powerful, and more secure.  
+We at Ashwanth System And Innovation welcome contributions from the community to make this project better, more powerful, and more secure.
 Whether you're an experienced developer, a security researcher, or just getting started in open-source, there are many ways to get involved.
 
 ### What You Can Contribute
@@ -401,12 +346,27 @@ Contribute to the design and optimization of the multi-agent orchestration layer
 We encourage clean, well-tested code with documentation.  
 Feel free to open issues to discuss ideas before jumping into a PR!
 
-## Join the Community
+## Project Journey & Acknowledgment
 
-Join our [Discord](https://discord.gg/XGytzHZU) to connect with other developers, share ideas, ask questions, and collaborate on building the future of AI-powered red teaming!
+Ashwanth Decepticon – SQL Hacking Agent is not just a project, but the outcome of months of dedication, experimentation, and continuous development by me and my team at Ashwanth System And Innovation.
 
-Whether you're looking for help with contributions, want to discuss new features, or just want to chat about cybersecurity and AI, our community is here to support you.
+From countless late nights of debugging and refining, to designing the agent workflows and experimenting with novel security methodologies, every line of code represents a step forward in pushing the boundaries of AI-driven offensive security. While I personally invested significant time into laying the foundation, this has always been a team-driven project, fueled by collaboration, shared research, and the determination to innovate.
 
+Our mission has been clear from the beginning: to create a meaningful, powerful, and accessible framework that can empower security researchers, ethical hackers, and the broader open-source community. This project combines AI agent orchestration, penetration testing automation, and MCP integration into one unified system — a vision made possible only through persistence, teamwork, and a shared passion for cybersecurity innovation.
+
+By contributing, you are not only improving the project’s codebase but also joining a journey that reflects months of hard work, resilience, and creativity under Ashwanth System And Innovation. Together, we can continue to shape Decepticon into a truly transformative tool for the future of cybersecurity.
+
+## Special Thanks
+This project would not have been possible without the inspiration, feedback, and contributions from both my core team and the wider community.
+
+- **Ashwanth System And Innovation Team** – for driving the vision and laying the foundation.  
+- **OpenAI (ChatGPT / GPT-5)** – for providing invaluable AI support and guidance during the research and writing process.  
+- **Arjun (India)** – for early testing and feedback on the MCP architecture.  
+- **Li Wei (China)** – for contributing valuable insights into red team automation.  
+- **Mei Chen (China)** – for helping refine documentation for multilingual audiences.  
+- **Kishore (India)** – for Docker and environment setup contributions.  
+- **Michael Thompson (USA)** – for reviewing agent workflows and improving modular design.  
+- **Sophia Müller (Germany)** – for continuous support in testing the replay and logging system.  
 
 
 ## 📝 License
@@ -415,4 +375,4 @@ This repository is licensed under the [Apache-2.0 License](LICENSE).
 
 ---
 
-![main](./assets/main.png)
+
